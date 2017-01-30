@@ -1,18 +1,19 @@
 # rpi3-compose-dockerui
-Run DockerUI on a RPi3 via docker-compose
+
+Run [Portainer](http://portainer.io/) on a Raspberry Pi 3 using docker-compose.
 
 ### Prerequisites
 
-* Raspberry Pi3
-* Up-to-date Raspian
-* Docker Engine
-* docker-compose
+* [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+* A MicroSD-Card with an up-to-date [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) distribution
+* [Docker Engine](https://docs.docker.com/)
+* [docker-compose](https://docs.docker.com/compose/)
 
 ### Step-by-step instructions
 
 ```
-git clone https://github.com/gmacario/rpi3-compose-dockerui
-cd rpi3-compose-dockerui
+git clone https://github.com/gmacario/rpi3-compose-portainer
+cd rpi3-compose-portainer
 docker-compose up -d
 ```
 
