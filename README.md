@@ -1,4 +1,4 @@
-# rpi3-compose-dockerui
+# rpi3-compose-portainer
 
 Run [Portainer](http://portainer.io/) on a Raspberry Pi 3 using docker-compose.
 
