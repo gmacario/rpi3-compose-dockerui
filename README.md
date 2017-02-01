@@ -17,6 +17,6 @@ cd rpi3-compose-portainer
 docker-compose up -d
 ```
 
-then browse http://_rpi3-ip-address_:9080/
+then browse http://_rpi3-ip-address_:9000/
 
 Copyright 2017, [Gianpaolo Macario](https://gmacario.github.io/)
